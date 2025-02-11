@@ -23,4 +23,4 @@ def search(nums, target):
 # Example Usage
 nums = [4, 5, 6, 7, 0, 1, 2]
 target = 0
-print(search(nums, target))  # Output: 4 (Index of 0)
+print(search(nums, target))  # Output: 4 (Index of 0) 
