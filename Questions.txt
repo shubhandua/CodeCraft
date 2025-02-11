@@ -1,1 +1,2 @@
 Questions for practice
+1.Check if pair with the given Sum exists in Array
