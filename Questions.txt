@@ -12,3 +12,4 @@ Questions for practice
 11.Find the Factorial of a large number	
 12.Trapping Rain Water
 14.Insert Interval
+15.Merge Intervals
